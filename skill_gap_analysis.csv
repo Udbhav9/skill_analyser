@@ -1,0 +1,33 @@
+Skill,Demand Count,Resume Count,Skill Gap
+sql,1389,1.0,1388.0
+excel,1354,2.0,1352.0
+python,637,2.0,635.0
+tableau,620,1.0,619.0
+statistics,563,1.0,562.0
+etl,346,0.0,346.0
+data visualization,339,0.0,339.0
+git,298,0.0,298.0
+aws,275,1.0,274.0
+java,204,1.0,203.0
+machine learning,180,0.0,180.0
+power bi,180,1.0,179.0
+hadoop,136,0.0,136.0
+javascript,125,1.0,124.0
+spark,89,0.0,89.0
+mysql,82,0.0,82.0
+azure,64,0.0,64.0
+linux,47,0.0,47.0
+pandas,41,1.0,40.0
+html,31,1.0,30.0
+postgresql,30,0.0,30.0
+react,27,0.0,27.0
+numpy,23,0.0,23.0
+c++,20,0.0,20.0
+mongodb,20,0.0,20.0
+css,15,1.0,14.0
+deep learning,11,0.0,11.0
+kubernetes,8,0.0,8.0
+tensorflow,5,0.0,5.0
+docker,5,1.0,4.0
+django,4,0.0,4.0
+flask,2,0.0,2.0
